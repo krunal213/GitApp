@@ -1,0 +1,1 @@
+class TestDiverge2 {}
